@@ -1,0 +1,16 @@
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\bin\Release\GenXmlToPdfCfdi.exe.config
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\bin\Release\GenXmlToPdfCfdi.exe.manifest
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\bin\Release\GenXmlToPdfCfdi.application
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\bin\Release\GenXmlToPdfCfdi.exe
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\bin\Release\GenXmlToPdfCfdi.pdb
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\bin\Release\itextsharp.dll
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\bin\Release\itextsharp.xml
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\obj\Release\EjemploIntegracionClasePDF.GenXmlToPdfCfdi.resources
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\obj\Release\GenXmlToPdfCfdi.Properties.Resources.resources
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\obj\Release\GenXmlToPdfCfdi.csproj.GenerateResource.Cache
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\obj\Release\GenXmlToPdfCfdi.TrustInfo.xml
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\obj\Release\GenXmlToPdfCfdi.exe.manifest
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\obj\Release\GenXmlToPdfCfdi.application
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\obj\Release\GenXmlToPdfCfdi.exe
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\obj\Release\GenXmlToPdfCfdi.pdb
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\obj\Release\GenXmlToPdfCfdi.csprojResolveAssemblyReference.cache

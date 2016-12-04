@@ -1,0 +1,23 @@
+C:\Users\Lypef\Downloads\CFDiPDF_C\C#\EjemploIntegracionClasePDF\bin\Debug\EjemploIntegracionClasePDF.exe.config
+C:\Users\Lypef\Downloads\CFDiPDF_C\C#\EjemploIntegracionClasePDF\obj\Debug\EjemploIntegracionClasePDF.csprojResolveAssemblyReference.cache
+C:\Users\Lypef\Downloads\CFDiPDF_C\C#\EjemploIntegracionClasePDF\obj\Debug\EjemploIntegracionClasePDF.Form1.resources
+C:\Users\Lypef\Downloads\CFDiPDF_C\C#\EjemploIntegracionClasePDF\obj\Debug\EjemploIntegracionClasePDF.Properties.Resources.resources
+C:\Users\Lypef\Downloads\CFDiPDF_C\C#\EjemploIntegracionClasePDF\obj\Debug\EjemploIntegracionClasePDF.csproj.GenerateResource.Cache
+C:\Users\Lypef\Downloads\CFDiPDF_C\C#\EjemploIntegracionClasePDF\bin\Debug\EjemploIntegracionClasePDF.exe
+C:\Users\Lypef\Downloads\CFDiPDF_C\C#\EjemploIntegracionClasePDF\bin\Debug\EjemploIntegracionClasePDF.pdb
+C:\Users\Lypef\Downloads\CFDiPDF_C\C#\EjemploIntegracionClasePDF\bin\Debug\itextsharp.dll
+C:\Users\Lypef\Downloads\CFDiPDF_C\C#\EjemploIntegracionClasePDF\bin\Debug\Multifacturas.dll
+C:\Users\Lypef\Downloads\CFDiPDF_C\C#\EjemploIntegracionClasePDF\obj\Debug\EjemploIntegracionClasePDF.exe
+C:\Users\Lypef\Downloads\CFDiPDF_C\C#\EjemploIntegracionClasePDF\obj\Debug\EjemploIntegracionClasePDF.pdb
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\C#\EjemploIntegracionClasePDF\bin\Debug\EjemploIntegracionClasePDF.exe.config
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\C#\EjemploIntegracionClasePDF\obj\Debug\EjemploIntegracionClasePDF.exe
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\C#\EjemploIntegracionClasePDF\obj\Debug\EjemploIntegracionClasePDF.pdb
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\C#\EjemploIntegracionClasePDF\bin\Debug\EjemploIntegracionClasePDF.exe
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\C#\EjemploIntegracionClasePDF\bin\Debug\EjemploIntegracionClasePDF.pdb
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\C#\EjemploIntegracionClasePDF\obj\Debug\EjemploIntegracionClasePDF.csprojResolveAssemblyReference.cache
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\C#\EjemploIntegracionClasePDF\obj\Debug\EjemploIntegracionClasePDF.Form1.resources
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\C#\EjemploIntegracionClasePDF\obj\Debug\EjemploIntegracionClasePDF.Properties.Resources.resources
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\C#\EjemploIntegracionClasePDF\obj\Debug\EjemploIntegracionClasePDF.csproj.GenerateResource.Cache
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\C#\EjemploIntegracionClasePDF\bin\Debug\itextsharp.dll
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\C#\EjemploIntegracionClasePDF\bin\Debug\itextsharp.xml
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\C#\EjemploIntegracionClasePDF\bin\Debug\GenXmlToPdfCfdi.exe.config

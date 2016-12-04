@@ -1,0 +1,15 @@
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\bin\Debug\GenXmlToPdfCfdi.exe.config
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\bin\Debug\GenXmlToPdfCfdi.exe.manifest
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\bin\Debug\GenXmlToPdfCfdi.application
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\bin\Debug\GenXmlToPdfCfdi.exe
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\bin\Debug\GenXmlToPdfCfdi.pdb
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\bin\Debug\itextsharp.dll
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\bin\Debug\itextsharp.xml
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\obj\Debug\EjemploIntegracionClasePDF.GenXmlToPdfCfdi.resources
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\obj\Debug\GenXmlToPdfCfdi.Properties.Resources.resources
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\obj\Debug\GenXmlToPdfCfdi.csproj.GenerateResource.Cache
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\obj\Debug\GenXmlToPdfCfdi.TrustInfo.xml
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\obj\Debug\GenXmlToPdfCfdi.exe.manifest
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\obj\Debug\GenXmlToPdfCfdi.application
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\obj\Debug\GenXmlToPdfCfdi.exe
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\obj\Debug\GenXmlToPdfCfdi.pdb
