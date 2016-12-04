@@ -13,3 +13,4 @@ C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploInte
 C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\obj\Debug\GenXmlToPdfCfdi.application
 C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\obj\Debug\GenXmlToPdfCfdi.exe
 C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\obj\Debug\GenXmlToPdfCfdi.pdb
+C:\Users\Lypef\Documents\Visual Studio 2015\Projects\GenXmlToPdfCfdi\EjemploIntegracionClasePDF\obj\Debug\GenXmlToPdfCfdi.csprojResolveAssemblyReference.cache
